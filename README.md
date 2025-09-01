@@ -55,13 +55,14 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+|                         MEMORY LOCATION (INPUT)                                                                                  |                                    MEMORY LOCATION (OUTPUT) |
+| ---------------------------------------------------------------------------------------------------------------------------------|------------------------ |
+|![WhatsApp Image 2025-09-01 at 22 33 51_0a7be4e3](https://github.com/user-attachments/assets/98f3c1f3-bac6-4ed8-a463-63d6daeef7b6)| ![WhatsApp Image 2025-09-01 at 22 33 51_db4574a8](https://github.com/user-attachments/assets/872e2c18-7382-47e8-818a-65111630a428)
+           |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 22 35 16_98938c53](https://github.com/user-attachments/assets/1ea82ada-b6ca-4073-9722-b810841c3f9f)
 
 ---
 
@@ -88,13 +89,13 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+|                                MEMORY LOCATION (INPUT)                                                                            |                                         MEMORY LOCATION (OUTPUT) |
+| ----------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------- |
+| ![WhatsApp Image 2025-09-01 at 22 34 14_1ea544d0](https://github.com/user-attachments/assets/d597bc1d-37cc-49af-a351-c527e3de02b1)|       ![WhatsApp Image 2025-09-01 at 22 34 15_4deb80a9](https://github.com/user-attachments/assets/2ffd8c0d-7992-48bb-a9ce-6b52de401cae)|
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 22 35 16_2dd8d7e1](https://github.com/user-attachments/assets/e73807cf-b4cd-4b81-ba81-384ccf2d5ac3)
 
 ---
 
@@ -139,11 +140,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|            ![WhatsApp Image 2025-09-01 at 22 34 35_b9cfc232](https://github.com/user-attachments/assets/b66fb3e6-174c-458b-9010-83bc6289afaf)|             ![WhatsApp Image 2025-09-01 at 22 34 35_349d060f](https://github.com/user-attachments/assets/54e48886-5fc7-4cdb-a1b5-1bdb7edd09a6)
+             |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 22 35 16_c2878ece](https://github.com/user-attachments/assets/d6ae8882-bf56-4521-bd08-61883a2f2667)
 
 ---
 
@@ -184,16 +186,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|             ![WhatsApp Image 2025-09-01 at 22 35 02_6f24adc3](https://github.com/user-attachments/assets/643e92bb-460a-4e74-8ba5-719f176a7424)|              ![WhatsApp Image 2025-09-01 at 22 35 03_1146f5c4](https://github.com/user-attachments/assets/df29203e-855d-4738-9d2d-4cea84ffd248)|
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-01 at 22 35 15_fbc19295](https://github.com/user-attachments/assets/4cf2a840-7ea0-4d58-b772-8e5f504f3bb7)
 
----
 ## OUTPUT FROM MASM SOFTWARE
-
-
 
 ## RESULT
 
